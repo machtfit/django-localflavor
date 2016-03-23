@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # André Hagenbruch, 2014
 # Jannis Leidel <jannis@leidel.info>, 2011-2012,2014
@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: django-localflavor\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-24 21:27+0200\n"
-"PO-Revision-Date: 2015-08-16 08:54+0000\n"
+"PO-Revision-Date: 2016-03-23 17:40+0100\n"
 "Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
 "Language-Team: German (http://www.transifex.com/django/django-localflavor/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -5183,17 +5183,17 @@ msgstr "Ungültige IBAN."
 
 #: generic/validators.py:205
 msgid "BIC codes have either 8 or 11 characters."
-msgstr ""
+msgstr "BIC-Codes haben eine Länge von entweder 8 oder 11 Zeichen"
 
 #: generic/validators.py:211
 #, python-format
 msgid "%s is not a valid institution code."
-msgstr ""
+msgstr "%s ist kein valider Bank Code"
 
 #: generic/validators.py:216
 #, python-format
 msgid "%s is not a valid country code."
-msgstr ""
+msgstr "%s ist kein valider BIC-Ländercode"
 
 #: generic/validators.py:225
 msgid "Not a valid EAN code."
